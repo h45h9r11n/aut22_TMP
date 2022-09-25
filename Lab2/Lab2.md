@@ -17,3 +17,4 @@
 После защиты работы отчет отправляется на почту преподавателю.
 
 ## Литература
+https://www.codeproject.com/Articles/20059/C-Installing-and-uninstalling-software
