@@ -1,0 +1,10 @@
+C:\Users\hanhnguyen26\source\repos\counter\Counter\bin\Release\Counter.exe.config
+C:\Users\hanhnguyen26\source\repos\counter\Counter\bin\Release\Counter.exe
+C:\Users\hanhnguyen26\source\repos\counter\Counter\bin\Release\Counter.pdb
+C:\Users\hanhnguyen26\source\repos\counter\Counter\obj\Release\Counter.Form1.resources
+C:\Users\hanhnguyen26\source\repos\counter\Counter\obj\Release\Counter.Form2.resources
+C:\Users\hanhnguyen26\source\repos\counter\Counter\obj\Release\Counter.Properties.Resources.resources
+C:\Users\hanhnguyen26\source\repos\counter\Counter\obj\Release\Counter.csproj.GenerateResource.cache
+C:\Users\hanhnguyen26\source\repos\counter\Counter\obj\Release\Counter.csproj.CoreCompileInputs.cache
+C:\Users\hanhnguyen26\source\repos\counter\Counter\obj\Release\Counter.exe
+C:\Users\hanhnguyen26\source\repos\counter\Counter\obj\Release\Counter.pdb

@@ -1,0 +1,10 @@
+C:\Users\hanhnguyen26\source\repos\counter\CustomInstaller\bin\Debug\CustomInstaller.dll
+C:\Users\hanhnguyen26\source\repos\counter\CustomInstaller\bin\Debug\CustomInstaller.CA.dll
+C:\Users\hanhnguyen26\source\repos\counter\CustomInstaller\bin\Debug\CustomInstaller.pdb
+C:\Users\hanhnguyen26\source\repos\counter\CustomInstaller\bin\Debug\Microsoft.Deployment.WindowsInstaller.dll
+C:\Users\hanhnguyen26\source\repos\counter\CustomInstaller\bin\Debug\Microsoft.Deployment.WindowsInstaller.xml
+C:\Users\hanhnguyen26\source\repos\counter\CustomInstaller\obj\x86\Debug\CustomInstaller.csproj.AssemblyReference.cache
+C:\Users\hanhnguyen26\source\repos\counter\CustomInstaller\obj\x86\Debug\CustomInstaller.csproj.CoreCompileInputs.cache
+C:\Users\hanhnguyen26\source\repos\counter\CustomInstaller\obj\x86\Debug\CustomInstaller.csproj.CopyComplete
+C:\Users\hanhnguyen26\source\repos\counter\CustomInstaller\obj\x86\Debug\CustomInstaller.dll
+C:\Users\hanhnguyen26\source\repos\counter\CustomInstaller\obj\x86\Debug\CustomInstaller.pdb

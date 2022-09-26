@@ -1,0 +1,11 @@
+C:\Users\hanhnguyen26\source\repos\Counter\Counter\bin\Debug\Counter.exe.config
+C:\Users\hanhnguyen26\source\repos\Counter\Counter\bin\Debug\Counter.exe
+C:\Users\hanhnguyen26\source\repos\Counter\Counter\bin\Debug\Counter.pdb
+C:\Users\hanhnguyen26\source\repos\Counter\Counter\obj\Debug\Counter.Form1.resources
+C:\Users\hanhnguyen26\source\repos\Counter\Counter\obj\Debug\Counter.Properties.Resources.resources
+C:\Users\hanhnguyen26\source\repos\Counter\Counter\obj\Debug\Counter.csproj.GenerateResource.cache
+C:\Users\hanhnguyen26\source\repos\Counter\Counter\obj\Debug\Counter.csproj.CoreCompileInputs.cache
+C:\Users\hanhnguyen26\source\repos\Counter\Counter\obj\Debug\Counter.exe
+C:\Users\hanhnguyen26\source\repos\Counter\Counter\obj\Debug\Counter.pdb
+C:\Users\hanhnguyen26\source\repos\Counter\Counter\obj\Debug\Counter.Form2.resources
+C:\Users\hanhnguyen26\source\repos\counter\Counter\obj\Debug\Counter.csproj.AssemblyReference.cache
