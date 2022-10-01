@@ -30,3 +30,7 @@
 1.	Показывается код продукта с обязательными комментариями.
 2.	Показывается продукт в действии с его заявленным функционалом.
 3.	Предоставляется отчёт (электронный) с описанием продукта, его функционала и инструкцией по применению.
+
+https://learn.microsoft.com/en-us/dotnet/api/system.io.file.setaccesscontrol?view=netframework-4.8
+https://stackoverflow.com/questions/9108399/how-to-grant-full-permission-to-a-file-created-by-my-application-for-all-users#16216587
+https://social.msdn.microsoft.com/Forums/en-US/de213b61-dc7e-4f33-acdb-893aa96837fa/c-set-directory-sharing-permission-full-control-for-everyone-programmatically-in-windows-7-or?forum=windowssdk
