@@ -34,3 +34,4 @@
 https://learn.microsoft.com/en-us/dotnet/api/system.io.file.setaccesscontrol?view=netframework-4.8
 https://stackoverflow.com/questions/9108399/how-to-grant-full-permission-to-a-file-created-by-my-application-for-all-users#16216587
 https://social.msdn.microsoft.com/Forums/en-US/de213b61-dc7e-4f33-acdb-893aa96837fa/c-set-directory-sharing-permission-full-control-for-everyone-programmatically-in-windows-7-or?forum=windowssdk
+https://social.msdn.microsoft.com/Forums/en-US/dc841874-b71b-4e1c-9052-06eb4a87d08f/filesystemaccessrule-everyone-group?forum=vbgeneral
