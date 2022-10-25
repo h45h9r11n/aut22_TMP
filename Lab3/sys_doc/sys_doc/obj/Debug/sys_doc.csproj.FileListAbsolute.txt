@@ -1,7 +1,0 @@
-C:\Users\hanhnguyen26\source\repos\sys_doc\sys_doc\bin\Debug\sys_doc.exe.config
-C:\Users\hanhnguyen26\source\repos\sys_doc\sys_doc\bin\Debug\sys_doc.exe
-C:\Users\hanhnguyen26\source\repos\sys_doc\sys_doc\bin\Debug\sys_doc.pdb
-C:\Users\hanhnguyen26\source\repos\sys_doc\sys_doc\obj\Debug\sys_doc.csproj.AssemblyReference.cache
-C:\Users\hanhnguyen26\source\repos\sys_doc\sys_doc\obj\Debug\sys_doc.csproj.CoreCompileInputs.cache
-C:\Users\hanhnguyen26\source\repos\sys_doc\sys_doc\obj\Debug\sys_doc.exe
-C:\Users\hanhnguyen26\source\repos\sys_doc\sys_doc\obj\Debug\sys_doc.pdb

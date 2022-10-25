@@ -1,0 +1,7 @@
+C:\Users\hanhnguyen26\source\repos\RedTeamDev\RedTeamDev\bin\Debug\RedTeamDev.exe.config
+C:\Users\hanhnguyen26\source\repos\RedTeamDev\RedTeamDev\bin\Debug\RedTeamDev.exe
+C:\Users\hanhnguyen26\source\repos\RedTeamDev\RedTeamDev\bin\Debug\RedTeamDev.pdb
+C:\Users\hanhnguyen26\source\repos\RedTeamDev\RedTeamDev\obj\Debug\RedTeamDev.csproj.AssemblyReference.cache
+C:\Users\hanhnguyen26\source\repos\RedTeamDev\RedTeamDev\obj\Debug\RedTeamDev.csproj.CoreCompileInputs.cache
+C:\Users\hanhnguyen26\source\repos\RedTeamDev\RedTeamDev\obj\Debug\RedTeamDev.exe
+C:\Users\hanhnguyen26\source\repos\RedTeamDev\RedTeamDev\obj\Debug\RedTeamDev.pdb

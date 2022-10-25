@@ -1,6 +1,0 @@
-C:\Users\hanhnguyen26\source\repos\secur\secur\bin\Debug\secur.exe.config
-C:\Users\hanhnguyen26\source\repos\secur\secur\bin\Debug\secur.exe
-C:\Users\hanhnguyen26\source\repos\secur\secur\bin\Debug\secur.pdb
-C:\Users\hanhnguyen26\source\repos\secur\secur\obj\Debug\secur.csproj.CoreCompileInputs.cache
-C:\Users\hanhnguyen26\source\repos\secur\secur\obj\Debug\secur.exe
-C:\Users\hanhnguyen26\source\repos\secur\secur\obj\Debug\secur.pdb
