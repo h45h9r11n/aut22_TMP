@@ -24,7 +24,5 @@ namespace RedTeamDev
             ipv4address = Dns.GetHostByName(hostName).AddressList[1].ToString();
             CPU = Environment.ProcessorCount.ToString();
         }
-
-
     }
 }

